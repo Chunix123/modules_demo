@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2018.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\zyc\Documents\zyc\IMIO_NFC\Project\C-modules
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug

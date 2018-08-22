@@ -1,0 +1,3 @@
+C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/CMakeFiles/C_modules.dir
+C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/CMakeFiles/rebuild_cache.dir

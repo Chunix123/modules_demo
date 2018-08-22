@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_modules"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_modules">
+				<Option output="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/C_modules.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_modules"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_modules/fast">
+				<Option output="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/C_modules.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_modules/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/common/common_api.c">
+			<Option target="C_modules"/>
+		</Unit>
+		<Unit filename="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/common/common_api.h">
+			<Option target="C_modules"/>
+		</Unit>
+		<Unit filename="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/main.c">
+			<Option target="C_modules"/>
+		</Unit>
+		<Unit filename="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/test/test_common_api.c">
+			<Option target="C_modules"/>
+		</Unit>
+		<Unit filename="C:/Users/zyc/Documents/zyc/IMIO_NFC/Project/C-modules/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
